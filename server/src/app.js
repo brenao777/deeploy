@@ -7,7 +7,6 @@ const tokenRouter = require('./routes/tokenRouter');
 const authRouter = require('./routes/authRouter');
 const path = require('path');
 
-
 const passwordRouter = require('./routes/passwordRouter');
 
 const app = express();
